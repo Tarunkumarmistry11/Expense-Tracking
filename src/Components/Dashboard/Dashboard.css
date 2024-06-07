@@ -1,0 +1,30 @@
+/* Add this to set the background color for the entire dashboard */
+.dashboard-container {
+    background-color: #3b3b3b; /* Choose your preferred background color */
+    position: relative;
+    top: -25px;
+    left: 0;
+    right: 0; 
+    margin: 0; 
+    padding: 0; 
+    overflow: hidden; 
+}
+  
+  .dashboard-container h1 {
+    color: white;
+  }
+  
+  .dashboard-info-container {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .Main-head {
+    position: relative;
+    top: 5px;
+    left: 10px;
+  }
